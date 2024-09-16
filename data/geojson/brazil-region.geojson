@@ -9701,7 +9701,6 @@
                 ]
             },
             "properties": {
-                "UF_05": "PA",
                 "REGIAO": "Norte"
             }
         },
@@ -14821,7 +14820,6 @@
                 ]
             },
             "properties": {
-                "UF_05": "BA",
                 "REGIAO": "Nordeste"
             }
         },
@@ -18661,7 +18659,6 @@
                 ]
             },
             "properties": {
-                "UF_05": ["SP", "MG", "RJ", "ES"],
                 "REGIAO": "Sudeste"
             }
         },
@@ -22187,7 +22184,6 @@
                 ]
             },
             "properties": {
-                "UF_05": "RS",
                 "REGIAO": "Sul"
             }
         },
@@ -26525,7 +26521,6 @@
                 ]
             },
             "properties": {
-                "UF_05": "DF",
                 "REGIAO": "Centro-Oeste"
             }
         }
