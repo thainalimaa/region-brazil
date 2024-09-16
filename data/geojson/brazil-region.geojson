@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -9701,22 +9701,14 @@
                 ]
             },
             "properties": {
-                "region": "Norte",
-                "siglas_estados": [
-                    "AC",
-                    "AP",
-                    "AM",
-                    "PA",
-                    "RO",
-                    "RR",
-                    "TO"
-                ]
+                "UF_05": "PA",
+                "REGIAO": "Norte"
             }
         },
         {
             "type": "Feature",
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -14829,23 +14821,14 @@
                 ]
             },
             "properties": {
-                "region": "Nordeste",
-                "siglas_estados": [
-                    "BA",
-                    "CE",
-                    "MA",
-                    "PB",
-                    "PE",
-                    "PI",
-                    "RN",
-                    "SE"
-                ]
+                "UF_05": "BA",
+                "REGIAO": "Nordeste"
             }
         },
         {
             "type": "Feature",
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -18678,19 +18661,14 @@
                 ]
             },
             "properties": {
-                "region": "Sudeste",
-                "siglas_estados": [
-                    "SP",
-                    "RJ",
-                    "MG",
-                    "ES"
-                ]
+                "UF_05": "SP",
+                "REGIAO": "Sudeste"
             }
         },
         {
             "type": "Feature",
             "geometry": {
-                "type": "Polygon",
+                "type": "MultiPolygon",
                 "coordinates": [
                     [
                         [
@@ -22209,12 +22187,8 @@
                 ]
             },
             "properties": {
-                "region": "Sul",
-                "siglas_estados": [
-                    "PR",
-                    "RS",
-                    "SC"
-                ]
+                "UF_05": "RS",
+                "REGIAO": "Sul"
             }
         },
         {
@@ -26551,13 +26525,8 @@
                 ]
             },
             "properties": {
-                "region": "Centro-Oeste",
-                "siglas_estados": [
-                    "GO",
-                    "MT",
-                    "MS",
-                    "DF"
-                ]
+                "UF_05": "DF",
+                "REGIAO": "Centro-Oeste"
             }
         }
     ]
